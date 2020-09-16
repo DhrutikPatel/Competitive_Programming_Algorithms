@@ -1,5 +1,3 @@
-/*package whatever //do not write package name here */
-
 import java.io.*;
 import java.util.*;
 
@@ -30,7 +28,7 @@ class sort{
         return i+1;
    }
 }
-class GFG {
+class quickSorting {
 	public static void main(String[] args){
 		int[] arr = {2,4,7,2,9,50,99,3,6,3,7,01};
 		int n = arr.length;
