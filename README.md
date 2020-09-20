@@ -3,17 +3,17 @@
 <h1>Algorithms and Data structures.<h1>
 
 <h3> Algorithms <h3>
-<li>Searching Algorithms.</li>
+<h5>Searching Algorithms.<h5>
 	Linear Search
 	Binary Search
 	Ternary Search
-<li> Sorting Algorithms</li>
+<h5> Sorting Algorithms</h5>
 	Bubble Sort
 	Selection Sort
 	Merge Sort
 	Insertion Sort
 	Quick Sort
-<li>Algorithms on Strings</li>
+<h5>Algorithms on Strings</h5>
 	Pattern matching
 	KMP
 	Z Algorithms
